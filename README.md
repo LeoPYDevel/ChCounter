@@ -23,7 +23,7 @@ cd number_counter
 ```
 And execute with python3 the *.py file:
 ```
-python3 number_counter.py
+python3 simple_counter.py
 ```
 # Run with wine
 If you choose run with wine, you need to follow the steps:
