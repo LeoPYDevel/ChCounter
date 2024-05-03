@@ -1,11 +1,7 @@
-# ChCounter
-A simple characters counter
-
-# How to use?
-# Windows:
+# How to use? Windows:
 For windows you need to open the *.exe file in the zip
 
-# Linux:
+# How to use? Linux:
 Unfortunatelly, you need a windows emulator for run it, but yu have two alternatives.
 
 # Run with python
@@ -13,7 +9,7 @@ First, you need to download python3 (if you don't have it):
 ```
 sudo apt install idle3
 ```
-When the donwload is finished, you need to check if pip is installed: 
+When the download is finished, you need to check if pip is installed: 
 ```
 pip --version
 ```
